@@ -1,0 +1,14 @@
+C:\Users\haciy_eh89\source\repos\hotel\hotel\bin\Debug\net8.0\hotelData.deps.json
+C:\Users\haciy_eh89\source\repos\hotel\hotel\bin\Debug\net8.0\hotelData.dll
+C:\Users\haciy_eh89\source\repos\hotel\hotel\bin\Debug\net8.0\hotelData.pdb
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\hotelData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\hotelData.AssemblyInfoInputs.cache
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\hotelData.AssemblyInfo.cs
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\hotelData.csproj.CoreCompileInputs.cache
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\hotelData.dll
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\refint\hotelData.dll
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\hotelData.pdb
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\ref\hotelData.dll
+C:\Users\haciy_eh89\source\repos\hotel\hotel\bin\Debug\net8.0\hotelData.runtimeconfig.json
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\hotelData.csproj.AssemblyReference.cache
+C:\Users\haciy_eh89\source\repos\hotel\hotel\obj\Debug\net8.0\hotelData.genruntimeconfig.cache
